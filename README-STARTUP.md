@@ -17,6 +17,9 @@ git push -u origin uitwerkingen-rob-franke
 
 checken welke remote dir:
 
+checken welke branch je nu werkt:
+git branch --show-current
+
 git remote -v
 
 
