@@ -29,7 +29,7 @@ git remote -v
 
 react-hook-form
 
-// npm install react-hook-form --save    --save zorgt ervoor dat het toegevoegd wordt
+npm install react-hook-form --save    --save zorgt ervoor dat het toegevoegd wordt
 
 Validation:
 Opties:
