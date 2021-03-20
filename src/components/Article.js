@@ -1,19 +1,13 @@
 import React from 'react';
 
-import Test from "./Test";
 
 function Article({articleName}){
 
 
 
-
-
-
-
-
     const [count, setCount] = React.useState(0);
-    // console.log((articleName))
-    // console.log(count)
+    console.log("articleName "+ articleName+ "  "+ count)
+
 
     return(
         <>
@@ -38,7 +32,7 @@ function Article({articleName}){
                     +
                 </button>
 
-                <input name="count" value={count} ref={register}/>
+
 
 
 

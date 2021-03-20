@@ -12,23 +12,32 @@ function Stap1() {
             <Article
                 articleName="Aardbeien"
                 >
-
             </Article>
+
+            <Article
+                articleName="Bananen"
+            >
+            </Article>
+
+
+
 
 
             <Article
                 articleName="Appels"
                >
-
             </Article>
 
 
+            <Article
+                articleName="Kiwi's"
+            >
+            </Article>
 
 
         </>
 
-
-    )
+    );
 
 
 }
